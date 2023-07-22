@@ -1,0 +1,58 @@
+2023-07-22 00:22:00.676 -03:00 [INF] asp environment Development
+2023-07-22 00:22:00.725 -03:00 [INF] environment Development
+2023-07-22 00:22:00.815 -03:00 [INF] teste
+2023-07-22 00:22:00.824 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-22 00:22:00.832 -03:00 [INF] Hosting environment: Production
+2023-07-22 00:22:00.833 -03:00 [INF] Content root path: D:\Dev\projetos\C#\ConsoleAppTemplate\ConsoleAppTemplate
+2023-07-22 00:22:10.217 -03:00 [INF] Application is shutting down...
+2023-07-22 00:22:34.452 -03:00 [INF] asp environment Development
+2023-07-22 00:22:34.507 -03:00 [INF] environment Development
+2023-07-22 00:22:34.586 -03:00 [INF] teste
+2023-07-22 00:22:34.605 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-22 00:22:34.617 -03:00 [INF] Hosting environment: Production
+2023-07-22 00:22:34.618 -03:00 [INF] Content root path: D:\Dev\projetos\C#\ConsoleAppTemplate\ConsoleAppTemplate
+2023-07-22 00:23:09.717 -03:00 [INF] teste
+2023-07-22 00:23:09.771 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-22 00:23:09.778 -03:00 [INF] Hosting environment: Production
+2023-07-22 00:23:09.781 -03:00 [INF] Content root path: D:\Dev\projetos\C#\ConsoleAppTemplate\ConsoleAppTemplate
+2023-07-22 00:23:12.633 -03:00 [INF] Application is shutting down...
+2023-07-22 00:24:24.231 -03:00 [INF] Application starting
+2023-07-22 00:24:24.381 -03:00 [INF] Development
+2023-07-22 00:24:24.460 -03:00 [INF] teste
+2023-07-22 00:24:24.469 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-22 00:24:24.476 -03:00 [INF] Hosting environment: Production
+2023-07-22 00:24:24.478 -03:00 [INF] Content root path: D:\Dev\projetos\C#\ConsoleAppTemplate\ConsoleAppTemplate
+2023-07-22 00:24:28.894 -03:00 [INF] Application is shutting down...
+2023-07-22 00:24:53.069 -03:00 [INF] Application starting
+2023-07-22 00:24:53.234 -03:00 [INF] Production
+2023-07-22 00:24:53.322 -03:00 [INF] teste
+2023-07-22 00:24:53.331 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-22 00:24:53.338 -03:00 [INF] Hosting environment: Production
+2023-07-22 00:24:53.341 -03:00 [INF] Content root path: D:\Dev\projetos\C#\ConsoleAppTemplate\ConsoleAppTemplate
+2023-07-22 00:24:56.448 -03:00 [INF] Application is shutting down...
+2023-07-22 00:26:34.910 -03:00 [INF] Application starting
+2023-07-22 00:26:35.141 -03:00 [INF] teste
+2023-07-22 00:26:35.149 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-22 00:26:35.156 -03:00 [INF] Hosting environment: Production
+2023-07-22 00:26:35.159 -03:00 [INF] Content root path: D:\Dev\projetos\C#\ConsoleAppTemplate\ConsoleAppTemplate
+2023-07-22 00:26:38.233 -03:00 [INF] Application is shutting down...
+2023-07-22 00:26:38.268 -03:00 [INF] Application is Shuting down
+2023-07-22 00:28:10.308 -03:00 [INF] Application starting
+2023-07-22 00:28:10.538 -03:00 [INF] teste
+2023-07-22 00:28:10.547 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-22 00:28:10.554 -03:00 [INF] Hosting environment: Production
+2023-07-22 00:28:10.556 -03:00 [INF] Content root path: D:\Dev\projetos\C#\ConsoleAppTemplate\ConsoleAppTemplate
+2023-07-22 00:28:11.948 -03:00 [INF] Application is shutting down...
+2023-07-22 00:28:11.982 -03:00 [INF] Application is Shutting down
+2023-07-22 00:32:40.069 -03:00 [INF] Application starting
+2023-07-22 00:32:40.320 -03:00 [INF] teste
+2023-07-22 00:32:42.414 -03:00 [INF] Application is Shutting down
+2023-07-22 00:34:17.845 -03:00 [INF] Application starting
+2023-07-22 00:34:18.088 -03:00 [INF] teste
+2023-07-22 00:34:19.660 -03:00 [INF] Application is Shutting down
+2023-07-22 00:34:43.247 -03:00 [INF] Application starting
+2023-07-22 00:34:43.492 -03:00 [INF] Start async
+2023-07-22 00:34:43.494 -03:00 [INF] teste
+2023-07-22 00:34:46.992 -03:00 [INF] stopAsync
+2023-07-22 00:34:47.007 -03:00 [INF] Dispose
+2023-07-22 00:34:47.022 -03:00 [INF] Application is Shutting down
