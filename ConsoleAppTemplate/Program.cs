@@ -4,12 +4,13 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Serilog;
 using Serilog.Events;
+using Serilog.Formatting.Json;
 
 Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
     .Enrich.FromLogContext()
     .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
-    .WriteTo.File("logs/Logs.txt", rollingInterval: RollingInterval.Day)
+    .WriteTo.File(new JsonFormatter(), "logs/Logs-.txt", rollOnFileSizeLimit: true, rollingInterval: RollingInterval.Day)
     .CreateLogger();
 
 var logger = Log.Logger;
@@ -40,10 +41,9 @@ try
     await app.RunAsync();
 
     app.WaitForShutdown();
-    app.Dispose();
 }
 catch (Exception ex)
 {
-    logger.Error("exception {excpetion}", ex);
+    logger.Error("exception {@excpetion}", ex);
 }
 logger.Information("Application is Shutting down");
